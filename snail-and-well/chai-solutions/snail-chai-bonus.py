@@ -2,6 +2,19 @@ import operator
 import statistics
 
 
+
+print("""\
+
+
+         __,._
+        /  _  \                                   
+       |  6 \  \  ಠ ಠ                            
+        \___/ .|__| |                             
+ __,..="^  . , "  , \   ---> Soy pepe de nuevo. Estoy enfadado porque esto es más difícil                           
+<.__________________/
+
+""")
+
 well_height    = 125
 advance_cm     = [30, 21, 33, 77, 44, 45, 23, 45, 12, 34, 55]
 snail_location = 0

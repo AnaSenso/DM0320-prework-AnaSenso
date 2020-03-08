@@ -3,6 +3,21 @@ import operator
 print("Programa super awesome del caracol y el pozo")
 print("********************************************")
 
+print("""\
+
+
+         __,._
+        /  _  \                                    
+       |  6 \  \  oo                            
+        \___/ .|__||                             
+ __,..="^  . , "  , \   ---> Soy el caracol del programa. Me llamo Pepe                           
+<.__________________/
+
+""")
+
+
+
+
 well_height    = 125
 snail_rise     = 30
 snail_slide    = 20
@@ -20,26 +35,7 @@ while (snail_location <= well_height):
         snail_location -= snail_slide
     #print("Día:" if is_daytime else "Noche:" , total_days, ". El caracol está a ", snail_location)
 
-print("El caracol ha salido el día: ", total_days)
-
-
-
-
-
-
-"""
-
-         __,._
-        /  _  \                                    
-       |  6 \  \  oo                            
-        \___/ .|__||                             
- __,..="^  . , "  , \   ---> Soy el caracol del programa. Me llamo Pepe                           
-<.__________________/
-
-
-"""
-
-
+print("Pepe ha salido el día: ", total_days)
     
 
 
