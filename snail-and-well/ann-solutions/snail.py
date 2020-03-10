@@ -27,3 +27,4 @@ while (distancia <= altura):
         distancia -= retronoche
 
 print(dias)
+

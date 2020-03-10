@@ -58,7 +58,7 @@ print("""\
  \  _T_/-._( (
  /         `. \\
 |         _  \ |    ...no sale lo que tiene que salir... algo falla.
- \ \ ,  /      |    Pero lo miraremos mañana
+ \ \ ,  /      |    Pero lo miraremos pasado mañana
   || |-_\__   /
  ((_/`(____,-'
 
