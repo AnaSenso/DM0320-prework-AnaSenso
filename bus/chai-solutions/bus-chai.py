@@ -10,7 +10,7 @@ maximumOcuppation = 0
 total = 0
 
 for passageIn,passageOut in stops:    
-    total += passageIn - passageOut
+    #total += passageIn - passageOut
 
     if (total > maximumOcuppation):
         maximumOcuppation = total
